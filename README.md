@@ -26,8 +26,7 @@ Instrucciones de Uso
 
 Clona este repositorio:
 
-git clone https://github.com/josemgu/amigo-secreto.git
-
+https://github.com/Josemgu/Amigo-Secreto-Proyecto-Alura/tree/main?tab=readme-ov-file
 Abre el archivo index.html en tu navegador.
 
 Ingresa los nombres de los participantes y agrégalos a la lista.
